@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 (Just playing around here)
-[Here's my research page](https://github.com/jimdolmas/jimdolmas.github.io/research.d).
+[Here's my research page](https://github.com/jimdolmas/jimdolmas.github.io/research.md).
 
 You can use the [editor on GitHub](https://github.com/jimdolmas/jimdolmas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
