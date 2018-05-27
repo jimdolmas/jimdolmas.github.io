@@ -2,7 +2,7 @@
 
 ![Here I am]({{"/assets/me.jpg"}}).
 
-You can use the [editor on GitHub](https://github.com/jimdolmas/jimdolmas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an economist at the Federal Reserve Bank of Dallas. You can use the [editor on GitHub](https://github.com/jimdolmas/jimdolmas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
