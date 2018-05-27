@@ -1,6 +1,8 @@
 ## Jim Dolmas
 
+<!--
 ![Here I am]({{"/assets/me.jpg"}}).
+-->
 
 I'm an economist at the Federal Reserve Bank of Dallas. You can use the [editor on GitHub](https://github.com/jimdolmas/jimdolmas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
