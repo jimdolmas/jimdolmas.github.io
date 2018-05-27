@@ -1,3 +1,6 @@
+---
+title: Research
+---
 # Research
 ## Published papers
 * Time-additive representations of preferences when consumption grows without bound, *Economics Letters* **47** (1995), 317-325.
