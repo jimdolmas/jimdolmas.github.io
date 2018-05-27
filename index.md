@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-(Just playing around here)
+## Jim Dolmas
 
 ![Here I am]({{"/assets/me.jpg"}}).
 
