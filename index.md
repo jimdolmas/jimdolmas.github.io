@@ -6,4 +6,4 @@ At the Fed, I've done some work on the topic of inflation measurement, in partic
 
 You can find a copy of my CV [here]({{"/assets/cv.pdf"}}).
 
-Here's my [Research]({{/research/index.md}}).
+Here's my [Research]({{/research/index}}).
