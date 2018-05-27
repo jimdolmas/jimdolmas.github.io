@@ -1,41 +1,7 @@
-## Jim Dolmas
+## Welcome
 
-<!--
-![Here I am]({{"/assets/me.jpg"}}).
--->
+I'm an economist at the [Federal Reserve Bank of Dallas](http://dallasfed.org). My research has been in the areas of utility theory, capital theory, quantitative business cycle theory, and political economy.  Recently, I have also been doing some work in the area of asset-pricing.
 
-I'm an economist at the Federal Reserve Bank of Dallas. You can use the [editor on GitHub](https://github.com/jimdolmas/jimdolmas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+At the Fed, I've done some work on the topic of inflation measurement, in particular the construction of [alternative measures of core inflation](http://www.dallasfed.org/research/pce/index.cfm). I also write a monthly "Inflation Update" for our website. If you are interested in that sort of thing, have a look [here](https://www.dallasfed.org/research/pce/inflation.cfm).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jimdolmas/jimdolmas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find a copy of my CV [here]({{"/assets/cv.pdf"}}).
