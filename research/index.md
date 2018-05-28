@@ -33,6 +33,9 @@ title: Research
 * Almost orthogonal outcomes under probabilistic voting: A cautionary example, unpublished manuscript (2008; revised 2015).
 * Majority voting: A quantitative investigation (joint with [Daniel R. Carroll](https://www.clevelandfed.org/people-search?pid=2c819cf7-db63-4c7b-9e40-e88947ebe2ee) and [Eric R. Young](http://people.virginia.edu/~ey2d/)), Federal Reserve Bank of Cleveland Working Paper 14-42 (2014; revised as "The politics of flat taxes", 2017).
 
+## A sort-of book
+* Whenever I teach a Ph.D.-level course, I end up with a sort-of book-length set of lecture notes that I've distributed to my students. Here's a copy of the notes for a mini (half-semester) course I taught on macro-asset-pricing at SMU in 2013 (comments are very much welcome): [PDF]({{"/assets/asset_book.pdf"}}) 
+
 <!--
 \item ``The dynamics of immigration policy with wealth-heterogeneous immigrants'' (joint with Gregory W. Huffman), Federal Reserve Bank of Dallas Working Paper 0006 (2000).
 
