@@ -4,15 +4,15 @@ title: Research
 # Research
 
 ## Published papers
-* Time-additive representations of preferences when consumption grows without bound, *Economics Letters* **47** (1995), 317--325.
+* Time-additive representations of preferences when consumption grows without bound, *Economics Letters* **47** (1995), 317--325. [PDF]({{"/assets/tas.pdf"}})
 * Balanced-growth-consistent recursive utility, *Journal of Economic Dynmaics & Control* **20** (1996), 657--680.
-* Endogenous growth in multi-sector Ramsey models, *International Economic Review* **37** (1996), 403--421.
+* Endogenous growth in multi-sector Ramsey models, *International Economic Review* **37** (1996), 403--421. [PDF]({{"/assets/ramsey.pdf"}})
 * On the political economy of endogenous taxation and redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *Economics Letters* **56** (1997), 223--227.
 * Risk preferences and the welfare cost of business cycles, *Review of Economic Dynamics* **1** (1998), 646--676.
 * Elastic capital supply and the effects of fiscal policy (joint with [Mark A. Wynne](https://www.dallasfed.org/research/economists/wynne.aspx)), *Economic Inquiry* **36** (1998), 553--574.
-* The US productivity slowdown: A peak through the structural break window (joint with Baldev Raj and Dan Slottje), *Economic Inquiry* **37** (1999), 226--241.
+* The US productivity slowdown: A peak through the structural break window (joint with Baldev Raj and Dan Slottje), *Economic Inquiry* **37** (1999), 226--241. [PDF]({{"/assets/structural_breaks.pdf"}})
 * Inequality, inflation and central bank independence (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman) and [Mark A. Wynne](https://www.dallasfed.org/research/economists/wynne.aspx)), *Canadian Journal of Economics* **33** (2000), 271--287.
-* A note on the potential pitfalls in estimating a 'wealth effect' on consumption from aggregate data, *Economics Letters* **78** (2003), 437--441.
+* A note on the potential pitfalls in estimating a 'wealth effect' on consumption from aggregate data, *Economics Letters* **78** (2003), 437--441. [PDF]({{"/assets/wealth_effect.pdf"}})
 * On the political economy of immigration and income redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *International Economic Review* **45** (2004), 1129--1168.
 * Campbell and Cochrane meet Melino and Yang: Reverse engineering the surplus ratio in a Mehra-Prescott economy, *North American Journal of Economics and Finance* **40** (2017), 55--62.
 * Do payment systems matter? A new look (joint with [Joe Haslag](http://web.missouri.edu/~haslagj/)), *Journal of Finance and Economics* **9** (2018), 1--25.
@@ -27,7 +27,7 @@ title: Research
 * The dynamics of immigration policy with wealth-heterogeneous immigrants (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), Federal Reserve Bank of Dallas Working Paper 0006 (2000).
 * Trimmed mean PCE inflation, Federal Reserve Bank of Dallas Working Paper 0506 (2005).
 * Real business cycle dynamics under first-order risk aversion, Federal Reserve Bank of Dallas Working Paper 0704 (2007).
-* What do majority-voting politics say about redistributive taxation of consumption and factor income?, Federal Reserve Bank of Dallas Working Paper 0814 (2008).
+* What do majority-voting politics say about redistributive taxation of consumption and factor income?, Federal Reserve Bank of Dallas Working Paper 0814 (2008). [PDF]({{"/assets/taxvote_WP.pdf"}})
 * Risk preferences, intertemporal substitution, and business cycle dynamics, unpublished manuscript (2012).
 * Disastrous disappointments: Asset-pricing with disaster risk and disappointment aversion, Federal Reserve Bank of Dallas Working Paper 1309 (2013; revised 2015).
 * Almost orthogonal outcomes under probabilistic voting: A cautionary example, unpublished manuscript (2008; revised 2015).
