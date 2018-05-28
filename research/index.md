@@ -10,7 +10,7 @@ title: Research
 * On the political economy of endogenous taxation and redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *Economics Letters* **56** (1997), 223--227.
 * Risk preferences and the welfare cost of business cycles, *Review of Economic Dynamics* **1** (1998), 646--676.
 * Elastic capital supply and the effects of fiscal policy (joint with [Mark A. Wynne](https://www.dallasfed.org/research/economists/wynne.aspx)), *Economic Inquiry* **36** (1998), 553--574.
-* The US productivity slowdown: A peak through the structural break window (joint with Baldev Raj amd Dan Slottje), *Economic Inquiry* **37** (1999), 226--241.
+* The US productivity slowdown: A peak through the structural break window (joint with Baldev Raj and Dan Slottje), *Economic Inquiry* **37** (1999), 226--241.
 * Inequality, inflation and central bank independence (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman) and [Mark A. Wynne](https://www.dallasfed.org/research/economists/wynne.aspx)), *Canadian Journal of Economics* **33** (2000), 271--287.
 * A note on the potential pitfalls in estimating a 'wealth effect' on consumption from aggregate data, *Economics Letters* **78** (2003), 437--441.
 * On the political economy of immigration and income redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *International Economic Review* **45** (2004), 1129--1168.
@@ -23,7 +23,35 @@ title: Research
 ## Book reviews
 * Review of Fisher Black's *Exploring General Equilibrium*, *International Review of Economics and Finance* **8** (1996).
 
+## Working papers & work-in-progress
+* The dynamics of immigration policy with wealth-heterogeneous immigrants (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), Federal Reserve Bank of Dallas Working Paper 0006 (2000).
+* Trimmed mean PCE inflation, Federal Reserve Bank of Dallas Working Paper 0506 (2005).
+* Real business cycle dynamics under first-order risk aversion, Federal Reserve Bank of Dallas Working Paper 0704 (2007).
+* What do majority-voting politics say about redistributive taxation of consumption and factor income?, Federal Reserve Bank of Dallas Working Paper 0814 (2008).
+* Risk preferences, intertemporal substitution, and business cycle dynamics, unpublished manuscript (2012).
+* Disastrous disappointments: Asset-pricing with disaster risk and disappointment aversion, Federal Reserve Bank of Dallas Working Paper 1309 (2013; revised 2015).
+* Almost orthogonal outcomes under probabilistic voting: A cautionary example, unpublished manuscript (2008; revised 2015).
+* Majority voting: A quantitative investigation (joint with [Daniel R. Carroll](https://www.clevelandfed.org/people-search?pid=2c819cf7-db63-4c7b-9e40-e88947ebe2ee) and [Eric R. Young](http://people.virginia.edu/~ey2d/)), Federal Reserve Bank of Cleveland Working Paper 14-42 (2014; revised as "The politics of flat taxes", 2017).
+
 <!--
+\item ``The dynamics of immigration policy with wealth-heterogeneous immigrants'' (joint with Gregory W. Huffman), Federal Reserve Bank of Dallas Working Paper 0006 (2000).
+
+\item ``Do payment systems matter: A new look'' (joint with Joe Haslag), unpublished manuscript (2005; revised 2015). \pdf{http://www.jimdolmas.net/econfiles/payment_systems.pdf}
+
+\item ``Trimmed mean PCE inflation,'' Federal Reserve Bank of Dallas Working Paper 0506 (2005). \pdf{http://www.dallasfed.org/assets/documents/research/papers/2005/wp0506.pdf}
+
+\item ``Real business cycle dynamics under first-order risk aversion,'' Federal Reserve Bank of Dallas Working Paper 0704 (2007). \pdf{http://www.dallasfed.org/assets/documents/research/papers/2007/wp0704.pdf}
+
+\item ``What do majority-voting politics say about redistributive taxation of consumption and factor income? Not much,'' Federal Reserve Bank of Dallas Working Paper 0814 (2008). \pdf{http://www.dallasfed.org/assets/documents/research/papers/2008/wp0814.pdf}
+
+\item ``Almost orthogonal outcomes under probabilistic voting: A cautionary example,'' unpublished manuscript (2008; revised 2015). \pdf{http://www.jimdolmas.net/econfiles/probvote_final.pdf}
+
+\item ``Risk preferences, intertemporal substitution, and business cycle dynamics,'' unpublished manuscript (2012). \pdf{http://www.jimdolmas.net/econfiles/habit.pdf}
+
+\item ``Disastrous disappointments: Asset-pricing with disaster risk and disappointment aversion,'' Federal Reserve Bank of Dallas Working Paper 1309 (2013; revised 2015). \pdf{http://www.jimdolmas.net/econfiles/disastrous.pdf}
+
+\item ``Majority voting: A quantitative investigation'' (joint with Daniel R. Carroll and Eric R. Young), Federal Reserve Bank of Cleveland Working Paper 14-42 (2014). \pdf{http://www.jimdolmas.net/econfiles/majority_voting.pdf}
+
 \item ``On the political economy of endogenous '' (joint with Gregory W. Huffman), \textit{Economics Letters} \textbf{56} (1997), 223--227. \pdf{http://www.jimdolmas.net/econfiles/redistribution.pdf}\doi{10.1016/S0165-1765(97)81904-0}
 
 \item ``Risk preferences and the welfare cost of business cycles,'' \textit{Review of Economic Dynamics} \textbf{1} (1998), 646--676. \pdf{http://www.jimdolmas.net/econfiles/cost_of_business_cycles_RED_98.pdf}\doi{10.1006/redy.1998.0020}
