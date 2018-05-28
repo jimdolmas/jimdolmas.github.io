@@ -15,6 +15,10 @@ title: Research
 * On the political economy of immigration and income redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *International Economic Review* **45** (2004), 1129-1168.
 * Campbell and Cochrane meet Melino and Yang: Reverse engineering the surplus ratio in a Mehra-Prescott economy, *North American Journal of Economics and Finance* **40** (2017), 55-62.
 * Paper on money (joint with [Joe Haslag](http://web.missouri.edu/~haslagj/)), *Journal of Economics and Finance* **N** (2018), nn--nn.
+## Book chapters
+* An exploration into the effects of dynamic economic stabilization (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), Chapter 1 in *Business Cycles and Macroeconomic Stability: Should We Rebuild Built-in Stabilizers?*, J.-O. Hairault, P.-Y. Henin and F. Portier, eds., Kluwer Academic Publishers (1997).
+## Book reviews
+* Review of Fisher Black's *Exploring General Equilibrium*, *International Review of Economics and Finance* **8** (1996).
 
 <!--
 \item ``On the political economy of endogenous '' (joint with Gregory W. Huffman), \textit{Economics Letters} \textbf{56} (1997), 223--227. \pdf{http://www.jimdolmas.net/econfiles/redistribution.pdf}\doi{10.1016/S0165-1765(97)81904-0}
