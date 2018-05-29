@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: jim dolmas's homepage
-description: This is just a vehicle for sharing my research and some of my personal interests.
-You can email me at jim@jimdolmas.net.
+description: >
+  This is just a vehicle for sharing my research and some of my personal interests.
+  You can email me at jim@jimdolmas.net.
 logo: /assets/me.jpg
 sidebar:
   nav: "research"
