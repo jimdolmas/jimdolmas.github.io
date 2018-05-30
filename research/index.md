@@ -4,6 +4,12 @@ layout: default
 ---
 # Research
 
+A PDF version of my CV is [here]({{"/assets/cv.pdf"}}).
+
+## Current projects
+### Political economy
+I have worked off-and-on in the general area of political economy---understood as models in which policies are endogenously determined given a framework (like majority voting) for aggregating the individual preferences---since some early papers with [Greg Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman); for example, my and Greg's *IER* paper on immigration and redistribution. A [current project]({{"/assets/majority_voting.pdf"}})---which is joint with [Eric Young](http://people.virginia.edu/~ey2d/) and [Dan Carroll](https://www.clevelandfed.org/people-search?pid=2c819cf7-db63-4c7b-9e40-e88947ebe2ee)---applies some solution concepts from political theory, namely the uncovered set and the essential set, to examine implications for taxes on consumption, labor, and capital (and associated transfers) in an Aiyagari-type model featuring rich heterogeneity in individuals' income and wealth. We calibrate the model to US experience, and, strikingly, we find a unique majority-rule equilibrium (a Condorcet winner). In contrast to the data, the model outcome features minimal taxes on labor income and essentially no redistribution. We conduct some experiments to try and uncover the factors driving this outcome.   
+
 ## Published papers
 * Time-additive representations of preferences when consumption grows without bound, *Economics Letters* **47** (1995), 317--325. [PDF]({{"/assets/tas.pdf"}})
 * Balanced-growth-consistent recursive utility, *Journal of Economic Dynmaics & Control* **20** (1996), 657--680.
@@ -35,7 +41,7 @@ layout: default
 * Majority voting: A quantitative investigation (joint with [Daniel R. Carroll](https://www.clevelandfed.org/people-search?pid=2c819cf7-db63-4c7b-9e40-e88947ebe2ee) and [Eric R. Young](http://people.virginia.edu/~ey2d/)), Federal Reserve Bank of Cleveland Working Paper 14-42 (2014; revised as "The politics of flat taxes", 2017).
 
 ## A sort-of book
-* Whenever I teach a Ph.D.-level course, I end up with a sort-of book-length set of lecture notes that I've distributed to my students. Here's a copy of the notes for a mini (half-semester) course I taught on macro-asset-pricing at SMU in 2013 (comments are very much welcome): [PDF]({{"/assets/asset_book.pdf"}}) 
+* Whenever I teach a Ph.D.-level course, I end up with a sort-of book-length set of lecture notes that I've distributed to my students. Here's a copy of the notes for a mini (half-semester) course I taught on macro-asset-pricing at SMU in 2013 (comments are very much welcome): [PDF]({{"/assets/asset_book.pdf"}})
 
 <!--
 \item ``The dynamics of immigration policy with wealth-heterogeneous immigrants'' (joint with Gregory W. Huffman), Federal Reserve Bank of Dallas Working Paper 0006 (2000).
