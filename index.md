@@ -6,7 +6,7 @@ At the Fed, I've done some work on the topic of inflation measurement, in partic
 
 You can find a copy of my CV [here]({{"/assets/cv.pdf"}}).
 
-Here's my [research](/research/index). [Non-economics](/nonecon/index) stuff, like some of my personal interests, is coming shortly.
+Depending on the device you're viewing this on, the links at left or above will help you navigate to the various parts of the site; for now, the only developed parts are pages for [research](/research/index) and [non-economics stuff](/nonecon/index), *i.e.*, some of my personal interests.
 
 Since I work for the Federal Reserve, I must convey the following disclaimer:
 > The views represented on these pages do not necessarily reflect the views of the Dallas Fed or the Federal Reserve System
