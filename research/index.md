@@ -25,16 +25,16 @@ My recent papers in asset-pricing were jump-started by the experience of teachin
 
 ## Published papers
 * Time-additive representations of preferences when consumption grows without bound, *Economics Letters* **47** (1995), 317--325. [PDF]({{"/assets/tas.pdf"}})
-* Balanced-growth-consistent recursive utility, *Journal of Economic Dynmaics & Control* **20** (1996), 657--680.
+* Balanced-growth-consistent recursive utility, *Journal of Economic Dynmaics & Control* **20** (1996), 657--680. [PDF]({{"/assets/bgru.pdf"}})
 * Endogenous growth in multi-sector Ramsey models, *International Economic Review* **37** (1996), 403--421. [PDF]({{"/assets/ramsey.pdf"}})
-* On the political economy of endogenous taxation and redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *Economics Letters* **56** (1997), 223--227.
-* Risk preferences and the welfare cost of business cycles, *Review of Economic Dynamics* **1** (1998), 646--676.
+* On the political economy of endogenous taxation and redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *Economics Letters* **56** (1997), 223--227. [PDF]({{"/assets/redistribution.pdf"}})
+* Risk preferences and the welfare cost of business cycles, *Review of Economic Dynamics* **1** (1998), 646--676. [PDF]({{"/assets/cost_of_business_cycles_RED_98.pdf"}})
 * Elastic capital supply and the effects of fiscal policy (joint with [Mark A. Wynne](https://www.dallasfed.org/research/economists/wynne.aspx)), *Economic Inquiry* **36** (1998), 553--574.
 * The US productivity slowdown: A peak through the structural break window (joint with Baldev Raj and Dan Slottje), *Economic Inquiry* **37** (1999), 226--241. [PDF]({{"/assets/structural_breaks.pdf"}})
-* Inequality, inflation and central bank independence (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman) and [Mark A. Wynne](https://www.dallasfed.org/research/economists/wynne.aspx)), *Canadian Journal of Economics* **33** (2000), 271--287.
+* Inequality, inflation and central bank independence (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman) and [Mark A. Wynne](https://www.dallasfed.org/research/economists/wynne.aspx)), *Canadian Journal of Economics* **33** (2000), 271--287. [PDF]({{"/assets/dhw.pdf"}})
 * A note on the potential pitfalls in estimating a 'wealth effect' on consumption from aggregate data, *Economics Letters* **78** (2003), 437--441. [PDF]({{"/assets/wealth_effect.pdf"}})
-* On the political economy of immigration and income redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *International Economic Review* **45** (2004), 1129--1168.
-* Campbell and Cochrane meet Melino and Yang: Reverse engineering the surplus ratio in a Mehra-Prescott economy, *North American Journal of Economics and Finance* **40** (2017), 55--62.
+* On the political economy of immigration and income redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *International Economic Review* **45** (2004), 1129--1168. [PDF]({{"/assets/dolmas_huffman_ier.pdf"}})
+* Campbell and Cochrane meet Melino and Yang: Reverse engineering the surplus ratio in a Mehra-Prescott economy, *North American Journal of Economics and Finance* **40** (2017), 55--62. [PDF]({{"/assets/ccmpmy.pdf"}})
 * Do payment systems matter? A new look (joint with [Joe Haslag](http://web.missouri.edu/~haslagj/)), *Journal of Finance and Economics* **9** (2018), 1--25.
 
 ## Book chapters
@@ -45,13 +45,13 @@ My recent papers in asset-pricing were jump-started by the experience of teachin
 
 ## Working papers & work-in-progress
 * The dynamics of immigration policy with wealth-heterogeneous immigrants (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), Federal Reserve Bank of Dallas Working Paper 0006 (2000).
-* Trimmed mean PCE inflation, Federal Reserve Bank of Dallas Working Paper 0506 (2005).
-* Real business cycle dynamics under first-order risk aversion, Federal Reserve Bank of Dallas Working Paper 0704 (2007).
+* Trimmed mean PCE inflation, Federal Reserve Bank of Dallas Working Paper 0506 (2005). [PDF](http://www.dallasfed.org/assets/documents/research/papers/2005/wp0506.pdf)
+* Real business cycle dynamics under first-order risk aversion, Federal Reserve Bank of Dallas Working Paper 0704 (2007). [PDF](http://www.dallasfed.org/assets/documents/research/papers/2007/wp0704.pdf)
 * What do majority-voting politics say about redistributive taxation of consumption and factor income?, Federal Reserve Bank of Dallas Working Paper 0814 (2008). [PDF]({{"/assets/taxvote_WP.pdf"}})
 * Risk preferences, intertemporal substitution, and business cycle dynamics, unpublished manuscript (2012).
-* Disastrous disappointments: Asset-pricing with disaster risk and disappointment aversion, Federal Reserve Bank of Dallas Working Paper 1309 (2013; revised 2015).
-* Almost orthogonal outcomes under probabilistic voting: A cautionary example, unpublished manuscript (2008; revised 2015).
-* Majority voting: A quantitative investigation (joint with [Daniel R. Carroll](https://www.clevelandfed.org/people-search?pid=2c819cf7-db63-4c7b-9e40-e88947ebe2ee) and [Eric R. Young](http://people.virginia.edu/~ey2d/)), Federal Reserve Bank of Cleveland Working Paper 14-42 (2014; revised as "The politics of flat taxes", 2017).
+* Disastrous disappointments: Asset-pricing with disaster risk and disappointment aversion, Federal Reserve Bank of Dallas Working Paper 1309 (2013; revised 2015). [PDF]({{"/assets/disastrous.pdf"}})
+* Almost orthogonal outcomes under probabilistic voting: A cautionary example, unpublished manuscript (2008; revised 2015). [PDF]({{"/assets/probvote_final.pdf"}})
+* Majority voting: A quantitative investigation (joint with [Daniel R. Carroll](https://www.clevelandfed.org/people-search?pid=2c819cf7-db63-4c7b-9e40-e88947ebe2ee) and [Eric R. Young](http://people.virginia.edu/~ey2d/)), Federal Reserve Bank of Cleveland Working Paper 14-42 (2014; revised as "The politics of flat taxes", 2017). [PDF]({{"/assets/majority_voting.pdf"}})
 
 ## A sort-of book
 * Whenever I teach a Ph.D.-level course, I end up with a sort-of book-length set of lecture notes that I've distributed to my students. Here's a copy of the notes for a mini (half-semester) course I taught on macro-asset-pricing at SMU in 2013 (comments are very much welcome): [PDF]({{"/assets/asset_book.pdf"}})
