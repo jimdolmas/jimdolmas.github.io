@@ -4,10 +4,10 @@ layout: default
 ---
 # Non-economics stuff
 
-I find it interesting to learn about about the non-work pursuits of people I interact with professionally, so in that spirit, this is just a bit about some of my personal interests.
+I find it interesting to learn about the non-work pursuits of people I interact with professionally, so in that spirit, this is just a bit about some of my personal interests.
 
 ## Food & drink
-Cooking is perhaps my favorite hobby. I have a few favorite, "go-to" cookbooks. For Greek cuisine, I think nothing (not even the encyclopedic *Vefa's Kitchen!*) beats Vilma Liacouras-Chantiles' [*The Food of Greece*](*The Food of Greece*). This book is a treasure, if only for here *yiouvetsi kritharaki* and *saltsa kima*. My copy long ago began to fall apart from continual use.
+Cooking is maybe my favorite hobby, though I don't have as much time to devote to it as I'd like. I have a few favorite "go-to" cookbooks, generally focussed on mediterrenean food. For Greek cuisine--my heritage--I think nothing (not even the encyclopedic *Vefa's Kitchen!*) beats Vilma Liacouras-Chantiles' [*The Food of Greece*](*The Food of Greece*). This book is a treasure, if only for her *yiouvetsi kritharaki* and *saltsa kima*. My copy long ago began to fall apart from continual use.
 
 Michael Psilakis' [*How to Roast a Lamb*](https://www.amazon.com/How-Roast-Lamb-Classic-Cooking/dp/0316041211) is also a great one, though the recipes are in general quite time-consuming; a beauty of this book---for me as a Greek-American---is how he weaves the recipes together with vignettes and photos of growing up in a Greek household much, it seems, like my own parents'.
 
