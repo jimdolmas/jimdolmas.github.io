@@ -1,8 +1,8 @@
 ---
-title: Non-economics
+title: Noneconomics
 layout: default
 ---
-# Non-economics stuff
+# Noneconomics stuff
 
 I find it interesting to learn about the non-work pursuits of people I interact with professionally, so in that spirit, this is just a bit about some of my personal interests.
 
