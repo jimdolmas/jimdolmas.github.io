@@ -11,5 +11,8 @@ author: Jim Dolmas
 twitter:
   username: jimdolmas
   card: summary
-sidebar:
-  nav: "research"
+
+analytics:
+    provider: "google-universal"
+  google:
+    tracking_id: "UA-23474669-1"
