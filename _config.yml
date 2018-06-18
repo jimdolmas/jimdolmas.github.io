@@ -12,7 +12,4 @@ twitter:
   username: jimdolmas
   card: summary
 
-analytics:
-  		provider: "google-universal"
-  	google:
- 	tracking_id: "UA-23474669-1"
+google_analytics: "UA-23474669-1"
