@@ -1,3 +1,4 @@
+google_analytics: UA-23474669-1
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
@@ -11,5 +12,3 @@ author: Jim Dolmas
 twitter:
   username: jimdolmas
   card: summary
-
-google_analytics: "UA-23474669-1"
