@@ -4,7 +4,7 @@ layout: default
 ---
 # Research
 
-A PDF version of my CV is [here]({{"/assets/cv.pdf"}}).
+A PDF version of my CV is [here]({{"/assets/cv.pdf"}}). If you are looking for my lecture notes on asset pricing, they are [here]({{"/assets/asset_book.pdf"}}) in one book-length PDF.
 
 ## Current projects
 ### Political economy
