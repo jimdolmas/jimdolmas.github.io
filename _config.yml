@@ -1,4 +1,4 @@
-google_analytics: "UA-23474669-1"
+google_analytics: UA-23474669-1
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
