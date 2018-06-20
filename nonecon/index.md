@@ -14,8 +14,8 @@ Michael Psilakis' [*How to Roast a Lamb*](https://www.amazon.com/How-Roast-Lamb-
 I also love cooking Italian; at least as presented by [Marcella Hazan](https://www.amazon.com/Essentials-Classic-Italian-Cooking-Marcella/dp/039458404X), or as expressed in the variety of *ragus* in Lynne Kasper's [*The Splendid Table*](https://www.amazon.com/Splendid-Table-Emilia-Romagna-Heartland-Northern/dp/0688089631), it has a kind of logic that I haven't found in other cuisines.
 
 I work mostly from recipes, but I do occasionally make stuff up myself. Here are two I wrote down, both vegetarian:
-* [A tomato risotto]({{"\assets\tomato-risotto.pdf"}})
-* [Quinoa shepherd's pie]({{"\assets\quinoa-shepherds-pie.pdf"}})
+* [A tomato risotto](/nonecon/tomato_risotto)
+* [Quinoa shepherd's pie](/nonecon/quinoa_shepherds_pie)
 
 On drink, there is only one book, the perfect reference and ultimate history book---David Wondrich's [*Imbibe!*](https://www.amazon.com/Imbibe-Absinthe-Cocktail-Professor-Featuring/dp/0399532870). There are no frou-frou drinks in here; these are recipes for elegant cocktails for a more civilized age, together with Wondrich's insightful histories of each. If you can find yourself some Old Tom gin---not easy to do---make yourself a Martinez (p. 245), kick back, and re-live the origins of the modern cocktail in the pages of Wondrich's wonderful guide.
 
