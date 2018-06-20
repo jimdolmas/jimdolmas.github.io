@@ -25,7 +25,7 @@ My recent papers in asset-pricing were jump-started by the experience of teachin
 
 ## Published papers
 * Time-additive representations of preferences when consumption grows without bound, *Economics Letters* **47** (1995), 317--325. [PDF]({{"/assets/tas.pdf"}})
-* Balanced-growth-consistent recursive utility, *Journal of Economic Dynmaics & Control* **20** (1996), 657--680. [PDF]({{"/assets/bgru.pdf"}})
+* Balanced-growth-consistent recursive utility, *Journal of Economic Dynamics & Control* **20** (1996), 657--680. [PDF]({{"/assets/bgru.pdf"}})
 * Endogenous growth in multi-sector Ramsey models, *International Economic Review* **37** (1996), 403--421. [PDF]({{"/assets/ramsey.pdf"}})
 * On the political economy of endogenous taxation and redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *Economics Letters* **56** (1997), 223--227. [PDF]({{"/assets/redistribution.pdf"}})
 * Risk preferences and the welfare cost of business cycles, *Review of Economic Dynamics* **1** (1998), 646--676. [PDF]({{"/assets/cost_of_business_cycles_RED_98.pdf"}})
