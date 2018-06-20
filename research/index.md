@@ -4,7 +4,7 @@ layout: default
 ---
 # Research
 
-A PDF version of my CV is [here]({{"/assets/cv.pdf"}}). If you are looking for my lecture notes on asset pricing, they are [here]({{"/assets/asset_book.pdf"}}) in one book-length PDF.
+A PDF version of my CV is [here]({{"/assets/cv.pdf"}}). If you are looking for my lecture notes on asset pricing, they are [available in one book-length PDF]({{"/assets/asset_book.pdf"}}). (My old website, that included homework solutions and other materials to go with the lectures, still lives on [here](https://sites.google.com/a/jimdolmas.net/jim-dolmas/).)
 
 ## Current projects
 ### Political economy
