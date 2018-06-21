@@ -4,7 +4,7 @@ layout: slim_header
 ---
 # Tomato Risotto
 
-This is my attempt to approximate (in a vegetarian version) a tomato risotto from Momo's, a pretty authentic Italian restaurant here in Dallas. There is also a [PDF version]({{"\assets\tomato-risotto.pdf"}}), if you'd like.
+This is my attempt to approximate (in a vegetarian version) a tomato risotto from [Momo's](http://momoitaliankitchen.com/), a pretty authentic Italian restaurant here in Dallas. There is also a [PDF version]({{"\assets\tomato-risotto.pdf"}}), if you'd like.
 
 *   1 small onion, chopped fairly fine
 *   1 clove garlic, minced
