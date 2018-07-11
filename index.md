@@ -1,4 +1,4 @@
-## Welcome
+## welcome
 
 I'm an economist at the [Federal Reserve Bank of Dallas](http://dallasfed.org). My research has been in the areas of utility theory, capital theory, quantitative business cycle theory, and political economy.  Recently, I have also been doing some work in the area of asset-pricing.
 
