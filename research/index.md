@@ -35,7 +35,7 @@ My recent papers in asset-pricing were jump-started by the experience of teachin
 * A note on the potential pitfalls in estimating a 'wealth effect' on consumption from aggregate data, *Economics Letters* **78** (2003), 437--441. [PDF]({{"/assets/wealth_effect.pdf"}})
 * On the political economy of immigration and income redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *International Economic Review* **45** (2004), 1129--1168. [PDF]({{"/assets/dolmas_huffman_ier.pdf"}})
 * Campbell and Cochrane meet Melino and Yang: Reverse engineering the surplus ratio in a Mehra-Prescott economy, *North American Journal of Economics and Finance* **40** (2017), 55--62. [PDF]({{"/assets/ccmpmy.pdf"}})
-* Do payment systems matter? A new look (joint with [Joe Haslag](http://web.missouri.edu/~haslagj/)), *Journal of Finance and Economics* **9** (2018), 1--25.
+* Do payment systems matter? A new look (joint with [Joe Haslag](http://web.missouri.edu/~haslagj/)), *Journal of Finance and Economics* **9** (2018), 1--25. [PDF]({{"/assets/trans.pdf"}})
 
 ## book chapters
 * An exploration into the effects of dynamic economic stabilization (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), Chapter 1 in *Business Cycles and Macroeconomic Stability: Should We Rebuild Built-in Stabilizers?*, J.-O. Hairault, P.-Y. Henin and F. Portier, eds., Kluwer Academic Publishers (1997).
