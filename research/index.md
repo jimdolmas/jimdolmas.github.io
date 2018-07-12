@@ -51,7 +51,7 @@ My recent papers in asset-pricing were jump-started by the experience of teachin
 * Risk preferences, intertemporal substitution, and business cycle dynamics, unpublished manuscript (2012).
 * Disastrous disappointments: Asset-pricing with disaster risk and disappointment aversion, Federal Reserve Bank of Dallas Working Paper 1309 (2013; revised 2015). [PDF]({{"/assets/disastrous.pdf"}})
 * Almost orthogonal outcomes under probabilistic voting: A cautionary example, unpublished manuscript (2008; revised 2015). [PDF]({{"/assets/probvote_final.pdf"}})
-* Majority voting: A quantitative investigation (joint with [Daniel R. Carroll](https://www.clevelandfed.org/people-search?pid=2c819cf7-db63-4c7b-9e40-e88947ebe2ee) and [Eric R. Young](http://people.virginia.edu/~ey2d/)), Federal Reserve Bank of Cleveland Working Paper 14-42 (2014; revised as "The politics of flat taxes", 2017). [PDF]({{"/assets/majority_voting.pdf"}})
+* Majority voting: A quantitative investigation (joint with [Daniel R. Carroll](https://www.clevelandfed.org/people-search?pid=2c819cf7-db63-4c7b-9e40-e88947ebe2ee) and [Eric R. Young](http://people.virginia.edu/~ey2d/)), Federal Reserve Bank of Cleveland Working Paper 14-42 (2014; revised as "The politics of flat taxes", 2017). [PDF]({{"/assets/cdy_8_25_17.pdf"}})
 
 ## a sort-of book
 * Whenever I teach a Ph.D.-level course, I end up with a sort-of book-length set of lecture notes that I've distributed to my students. Here's a copy of the notes for a mini (half-semester) course I taught on macro-asset-pricing at SMU in 2012 (comments are very much welcome): [PDF]({{"/assets/asset_book.pdf"}})
