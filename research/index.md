@@ -29,7 +29,7 @@ My recent papers in asset-pricing were jump-started by the experience of teachin
 * Endogenous growth in multi-sector Ramsey models, *International Economic Review* **37** (1996), 403--421. [PDF]({{"/assets/ramsey.pdf"}})
 * On the political economy of endogenous taxation and redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *Economics Letters* **56** (1997), 223--227. [PDF]({{"/assets/redistribution.pdf"}})
 * Risk preferences and the welfare cost of business cycles, *Review of Economic Dynamics* **1** (1998), 646--676. [PDF]({{"/assets/cost_of_business_cycles_RED_98.pdf"}})
-* Elastic capital supply and the effects of fiscal policy (joint with [Mark A. Wynne](https://www.dallasfed.org/research/economists/wynne.aspx)), *Economic Inquiry* **36** (1998), 553--574.
+* Elastic capital supply and the effects of fiscal policy (joint with [Mark A. Wynne](https://www.dallasfed.org/research/economists/wynne.aspx)), *Economic Inquiry* **36** (1998), 553--574. [PDF]({{"/assets/elastic_capital_supply.pdf"}})
 * The US productivity slowdown: A peak through the structural break window (joint with Baldev Raj and Dan Slottje), *Economic Inquiry* **37** (1999), 226--241. [PDF]({{"/assets/structural_breaks.pdf"}})
 * Inequality, inflation and central bank independence (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman) and [Mark A. Wynne](https://www.dallasfed.org/research/economists/wynne.aspx)), *Canadian Journal of Economics* **33** (2000), 271--287. [PDF]({{"/assets/dhw.pdf"}})
 * A note on the potential pitfalls in estimating a 'wealth effect' on consumption from aggregate data, *Economics Letters* **78** (2003), 437--441. [PDF]({{"/assets/wealth_effect.pdf"}})
