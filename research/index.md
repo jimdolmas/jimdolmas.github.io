@@ -36,6 +36,7 @@ My recent papers in asset-pricing were jump-started by the experience of teachin
 * On the political economy of immigration and income redistribution (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), *International Economic Review* **45** (2004), 1129--1168. [PDF]({{"/assets/dolmas_huffman_ier.pdf"}})
 * Campbell and Cochrane meet Melino and Yang: Reverse engineering the surplus ratio in a Mehra-Prescott economy, *North American Journal of Economics and Finance* **40** (2017), 55--62. [PDF]({{"/assets/ccmpmy.pdf"}})
 * Do payment systems matter? A new look (joint with [Joe Haslag](http://web.missouri.edu/~haslagj/)), *Journal of Finance and Economics* **9** (2018), 1--25. [PDF]({{"/assets/trans.pdf"}})
+* Two measures of core inflation: A comparison (joint with [Evan F. Koenig](https://www.dallasfed.org/research/economists/koenig.aspx)), Federal Reserve Bank of St. Louis *Review*, Fourth Quarter 2019, 245--258. [PDF]({{"/assets/two-measures-of-core-inflation-a-comparison.pdf"}})
 
 ## book chapters
 * An exploration into the effects of dynamic economic stabilization (joint with [Gregory W. Huffman](https://as.vanderbilt.edu/econ/bio/gregory-huffman)), Chapter 1 in *Business Cycles and Macroeconomic Stability: Should We Rebuild Built-in Stabilizers?*, J.-O. Hairault, P.-Y. Henin and F. Portier, eds., Kluwer Academic Publishers (1997).
@@ -52,7 +53,6 @@ My recent papers in asset-pricing were jump-started by the experience of teachin
 * Disastrous disappointments: Asset-pricing with disaster risk and disappointment aversion, Federal Reserve Bank of Dallas Working Paper 1309 (2013; revised 2015). [PDF]({{"/assets/disastrous.pdf"}})
 * Almost orthogonal outcomes under probabilistic voting: A cautionary example, unpublished manuscript (2008; revised 2015). [PDF]({{"/assets/probvote_final.pdf"}})
 * Majority voting: A quantitative investigation (joint with [Daniel R. Carroll](https://www.clevelandfed.org/people-search?pid=2c819cf7-db63-4c7b-9e40-e88947ebe2ee) and [Eric R. Young](http://people.virginia.edu/~ey2d/)), Federal Reserve Bank of Cleveland Working Paper 14-42 (2014; revised as "The politics of flat taxes", 2017). [PDF]({{"/assets/cdy_8_25_17.pdf"}})
-* Two measures of core inflation: A comparison (joint with [Evan F. Koenig](https://www.dallasfed.org/research/economists/koenig.aspx)), unpublished manuscript (2019). [PDF]({{"/assets/trimmed_mean_vs_core_pce.pdf"}})
 
 ## a sort-of book
 * Whenever I teach a Ph.D.-level course, I end up with a sort-of book-length set of lecture notes that I've distributed to my students. Here's a copy of the notes for a mini (half-semester) course I taught on macro-asset-pricing at SMU in 2012 (comments are very much welcome): [PDF]({{"/assets/asset_book.pdf"}})
