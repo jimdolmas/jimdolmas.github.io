@@ -1,0 +1,290 @@
+% Curriculum Vitae
+% 
+% This uses a template created by Jason Blevins---
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% ---with some modifications based on Dario Taraborelli---
+% http://nitens.org/taraborelli/cvtex
+%
+% Uses fontspec, compile with XeLaTeX
+
+\documentclass[letterpaper]{article}
+\usepackage{geometry}
+
+
+% FONTS - Using Linux Libertine, may choose other OTFs
+\usepackage{fontspec}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont [Ligatures={Common}, Numbers={OldStyle}, Variant=01]{Linux Libertine O}
+
+% Name
+\def\name{Jim Dolmas}
+
+% Footerlink to latest version
+\def\footerlink{https://jimdolmas.net/assets/cv.pdf}
+
+% Hyperref set-up
+\usepackage[bookmarks, colorlinks, breaklinks]{hyperref}
+\hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=MidnightBlue,
+pdftitle={\name: Curriculum Vitae},
+pdfauthor={\name},
+pdfcreator={XeLaTeX},
+pdfkeywords = {economics, macroeconomics, utility theory, inflation}
+}
+
+% Geometry
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+    \itemsep -1pt plus 1pt minus 1pt
+    \topsep -1pt plus 1pt minus 1pt
+  }
+}{
+  \end{list}
+}
+% Custom commands
+\chardef\&="E050
+\newcommand{\jstor}[1]{\href{#1}{\scriptsize\textsc{[jstor]}}}
+\newcommand{\pdf}[1]{\href{#1}{\scriptsize\textsc{[pdf]}}}
+\newcommand{\doi}[1]{\href{http://dx.doi.org/#1}{\scriptsize\textsc{[doi]}}}
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.45\linewidth}
+  \href{http://www.dallasfed.org/}{Federal Reserve Bank of Dallas} \\
+  Research Department \\
+  2200 North Pearl Street \\
+  Dallas, TX 75201
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+  \begin{tabular}{ll}
+    Phone: & (214) 922-5161 \\
+    Fax: &  (214) 922-5194 \\
+    Email: & \href{mailto:jim@jimdolmas.net}{jim@jimdolmas.net} \\
+    Web: & \href{https://jimdolmas.net/}{jimdolmas.net} \\
+  \end{tabular}
+\end{minipage}
+
+\section*{Personal}
+\begin{itemize}\itemsep -2pt
+\item Born on January 6, 1965.
+\item United States Citizen.
+\end{itemize}
+
+\section*{Education}
+\begin{itemize}
+  \item B.A. Economics (Honors), University of Chicago, 1987.
+  \item M.A. Economics, University of Rochester, 1990.
+  \item Ph.D. Economics, University of Rochester, 1993.
+\end{itemize}
+
+\section*{Employment}
+\begin{itemize}
+\item Visiting Assistant Professor of Economics, Southern Methodist University, 1992--1993
+\item Assistant Professor of Economics, Southern Methodist University, 1993--2000
+\item Visiting Assistant Professor of Economics, University of Texas at Austin, 1998--1999
+\item Adjunct Assistant Professor of Economics, Southern Methodist University, Spring 2012
+\item Federal Reserve Bank of Dallas, June 2000--present.
+	\begin{itemize}
+	\item Senior Economist, June 2000--December 2003
+	\item Senior Research Economist \& Advisor, January 2004--August 2017
+	\item Executive Editor, \emph{Economic Letter}, April 2009--September 2012, May 2016--December 2018
+	\item Senior Policy Advisor \& Economist, September 2017--December 2020
+	\item Co-editor, \emph{Dallas Fed Economics} blog, January 2019--present
+	\item Group head, Policy Group, June 2019--present
+	\item Economic Policy Advisor \& Senior Economist, January 2021--present
+	\end{itemize}
+\end{itemize}
+
+\section*{Areas of interest}
+\begin{itemize}
+\item Intertemporal utility theory and asset-pricing
+\item Political economy models of immigration, taxation, and public spending
+\item Quantitative business cycle theory
+\item Capital theory
+\item Inflation measurement
+\end{itemize}
+
+\section*{Research}
+\subsection*{Journal articles}
+\begin{itemize}
+\item ``Time-additive representations of preferences when consumption grows without bound,'' \textit{Economics Letters} \textbf{47} (1995), 317--325. \pdf{https://jimdolmas.github.io/assets/tas.pdf}\doi{10.1016/0165-1765(94)00566-K}
+
+\item ``Balanced-growth-consistent recursive utility,'' \textit{Journal of Economic Dynamics \& Control} \textbf{20} (1996), 657--680. \pdf{https://jimdolmas.github.io/assets/bgcru.pdf}\doi{10.1016/0165-1889(95)00869-1}
+
+\item ``Endogenous growth in multisector Ramsey models,'' \textit{International Economic Review} \textbf{37} (1996), 403--421. \pdf{https://jimdolmas.github.io/assets/ramsey.pdf}\jstor{http://www.jstor.org/stable/2527330}
+
+\item ``On the political economy of endogenous taxation and redistribution'' (joint with Gregory W. Huffman), \textit{Economics Letters} \textbf{56} (1997), 223--227. \pdf{https://jimdolmas.github.io/assets/redistribution.pdf}\doi{10.1016/S0165-1765(97)81904-0}
+
+\item ``Risk preferences and the welfare cost of business cycles,'' \textit{Review of Economic Dynamics} \textbf{1} (1998), 646--676. \pdf{https://jimdolmas.github.io/assets/cost_of_business_cycles_RED_98.pdf}\doi{10.1006/redy.1998.0020}
+
+\item ``Elastic capital supply and the effects of fiscal policy'' (joint with Mark A. Wynne), \textit{Economic Inquiry} \textbf{36} (1998), 553--574. \doi{10.1111/j.1465-7295.1998.tb01736.x}
+
+\item ``The US productivity slowdown: A peak through the structural break window'' (joint with Baldev Raj and Dan Slottje), \textit{Economic Inquiry} \textbf{37} (1999), 226--241. \pdf{https://jimdolmas.github.io/assets/structural_breaks.pdf}\doi{10.1111/j.1465-7295.1999.tb01427.x}
+
+\item ``Inequality, inflation and central bank independence'' (joint with Gregory W. Huffman and Mark A. Wynne), \textit{Canadian Journal of Economics} \textbf{33} (2000), 271--287. \pdf{https://jimdolmas.github.io/assets/dhw.pdf}\doi{10.1111/0008-4085.00015}\jstor{http://www.jstor.org/stable/2667378}
+
+\item ``A note on the potential pitfalls in estimating a `wealth effect' on consumption from aggregate data,'' \textit{Economics Letters} \textbf{78} (2003), 437--441. \pdf{https://jimdolmas.github.io/assets/wealth_effect.pdf}\doi{10.1016/S0165-1765(02)00249-5}
+
+\item ``On the political economy of immigration and income redistribution'' (joint with Gregory W. Huffman), \textit{International Economic Review} \textbf{45} (2004), 1129--1168. \pdf{https://jimdolmas.github.io/assets/dolmas_huffman_ier.pdf}\doi{10.1111/j.0020-6598.2004.00300.x}\jstor{http://www.jstor.org/stable/3663622}
+
+\item ``Campbell and Cochrane meet Melino and Yang: Reverse engineering the surplus ratio in a Mehra-Prescott economy,'' \textit{North American Journal of Economics and Finance} \textbf{40} (2017), 55--62. \pdf{https://jimdolmas.github.io/assets/ccmpmy.pdf}\doi{10.1016/j.najef.2017.01.006}
+
+\item ``Do payment systems matter: A new look'' (joint with Joe Haslag), \textit{Journal of Finance and Economics} \textbf{9} (2018), 1--25. \doi{10.12735/jfe.v9n1p1}
+
+\item ``Two measures of core inflation: A comparison'' (joint with Evan F. Koenig), Federal Reserve Bank of St. Louis \textit{Review}, Fourth Quarter 2019, \textbf{101} (2019), 245--258. \pdf{https://jimdolmas.github.io/assets/two-measures-of-core-inflation-a-comparison.pdf}\doi{10.20955/r.101.245-58}
+
+\item ``The politics of flat taxes'' (joint with Daniel R. Carroll and Eric R. Young), \textit{Review of Economic Dynamics} \textbf{39} (2021), 174--201. \pdf{https://jimdolmas.github.io/assets/cdy_RED_in_press.pdf} \doi{10.1016/j.red.2020.06.016}
+\end{itemize}
+
+\subsection*{Conference proceedings}
+\begin{itemize}
+\item ``An exploration into the effects of dynamic economic stabilization'' (joint with Gregory W. Huffman), Chapter 1 in \textit{Business Cycles and Macroeconomic Stability: Should We Rebuild Built-in Stabilizers?}, {J.-O.} Hairault, {P.-Y.} Henin and F. Portier, eds., Kluwer Academic Publishers (1997). \href{http://books.google.com/books?id=cJYTNAu3GxUC&lpg=PP1&pg=PA3#v=onepage&q&f=false}{\scriptsize\textsc{[google books]}}
+\end{itemize}
+
+\subsection*{Working papers \& works-in-progress}
+\begin{itemize}
+\item ``The dynamics of immigration policy with wealth-heterogeneous immigrants'' (joint with Gregory W. Huffman), Federal Reserve Bank of Dallas Working Paper 0006 (2000).
+
+\item ``Do payment systems matter: A new look'' (joint with Joe Haslag), unpublished manuscript (2005; revised 2015). \pdf{https://jimdolmas.github.io/assets/payment_systems.pdf}
+
+\item ``Trimmed mean PCE inflation,'' Federal Reserve Bank of Dallas Working Paper 0506 (2005). \pdf{http://www.dallasfed.org/assets/documents/research/papers/2005/wp0506.pdf}
+
+\item ``Real business cycle dynamics under first-order risk aversion,'' Federal Reserve Bank of Dallas Working Paper 0704 (2007). \pdf{http://www.dallasfed.org/assets/documents/research/papers/2007/wp0704.pdf}
+
+\item ``What do majority-voting politics say about redistributive taxation of consumption and factor income? Not much,'' Federal Reserve Bank of Dallas Working Paper 0814 (2008). \pdf{http://www.dallasfed.org/assets/documents/research/papers/2008/wp0814.pdf}
+
+\item ``Almost orthogonal outcomes under probabilistic voting: A cautionary example,'' unpublished manuscript (2008; revised 2015). \pdf{https://jimdolmas.github.io/assets/probvote_final.pdf}
+
+\item ``Risk preferences, intertemporal substitution, and business cycle dynamics,'' unpublished manuscript (2012). \pdf{https://jimdolmas.github.io/assets/habit.pdf}
+
+\item ``Disastrous disappointments: Asset-pricing with disaster risk and disappointment aversion,'' Federal Reserve Bank of Dallas Working Paper 1309 (2013; revised 2015). \pdf{https://jimdolmas.github.io/assets/disastrous.pdf}
+
+\item ``Mobility and engagement following the SARS-Cov-2 outbreak'' (joint with Tyler Atkinson, Christoffer Koch, Evan Koenig, Karel Mertens, and Kei-mu Yi), Federal Reserve Bank of Dallas Working Paper 20-14 (2020). \pdf{https://www.dallasfed.org/-/media/documents/research/papers/2020/wp2014.pdf}
+
+\end{itemize}
+
+\subsection*{Federal Reserve Bank of Dallas publications}
+\begin{itemize}
+\item ``The national economy: Heading for a dip?'' \textit{Southwest Economy}, November/December 2002.
+
+\item ``Monetary policy in a zero-interest-rate economy'' (with E. Koenig), \textit{Southwest Economy}, July/August 2003.
+
+\item ``Globalization: Myths and realities,'' \textit{Southwest Economy}, September/October 2004.
+
+\item ``A fitter, trimmer core inflation measure,'' \textit{Southwest Economy}, May/June 2005.
+
+\item ``Measuring core inflation: Notes from a 2007 Dallas Fed conference'' (joint with Mark A. Wynne), \textit{Staff Papers}, No. 4, May 2008. \pdf{http://www.dallasfed.org/assets/documents/research/staff/staff0802.pdf}
+
+\item ``Excluding items from personal consumption expenditures inflation,'' \textit{Staff Papers}, No. 7, June 2009. \pdf{http://www.dallasfed.org/assets/documents/research/staff/staff0901.pdf}
+
+\item ``Inflation measurement gives us food for thought,'' \textit{Economic Letter}, May 2011.
+
+\item ``Health care services depress recent PCE inflation readings,'' \textit{Economic Letter}, August 2016.
+
+\item ``Which core to believe? Trimmed mean versus ex-food-and-energy inflation'' (with E. Koenig), \textit{Dallas Fed Economics}, May 28, 2019.
+
+\item ``Room to grow? Inflation and labor market slack'' (with E. Koenig), \textit{Dallas Fed Economics}, May 30, 2019.
+
+\item ``Another benefit of trimming: Smaller inflation revisions,'' \textit{Dallas Fed Economics}, August 6, 2019.
+
+\item ``Dallas Fed Mobility and Engagement Index gives insight into COVID-19's impact'' (with T. Atkinson, C. Koch, E. Koenig, K. Mertens, A. Murphy, and K.-M. Yi), \textit{Dallas Fed Economics}, May 21, 2020.
+
+\item ``Average inflation over the pandemic avoids `base-effect' distortions'' (with T. Atkinson and M. Giannoni), \textit{Dallas Fed Economics}, May 13, 2021.
+
+\item ``The labor market may be tighter than the level of employment suggests'' (with R. Kaplan, T. Atkinson, M. Giannoni, and K. Mertens), \textit{Dallas Fed Economics}, May 27, 2021.
+
+\item ``What the trimmed mean says about future inflation: Broadening price pressures ahead'' (with T. Atkinson, M. Giannoni, and E. Koenig), \textit{Dallas Fed Economics}, July 1, 2021.
+
+\item ``Behind the numbers: PCE inflation update,'' monthly web publication, May 2010--present.  \href{http://dallasfed.org/research/pce/inflation.cfm}{\scriptsize\textsc{[link]}} 
+\end{itemize}
+
+\subsection*{Book review}
+\begin{itemize}
+\item ``Review of Fisher Black's \textit{Exploring General Equilibrium},'' \textit{International Review of Economics and Finance} \textbf{8} (1996). \pdf{https://jimdolmas.github.io/assets/fisher_black.pdf}\doi{10.1016/S1059-0560(96)90038-6}
+\end{itemize}
+
+\section*{Professional affiliations}
+\begin{itemize}
+\item Econometric Society, American Economic Association, \TeX Users Group
+\end{itemize}
+
+\section*{Referee activity}
+\begin{itemize}
+\item\textit{American Economic Journal: Macroeconomics; American Economic Review; The B.E. Journal of Macroeconomics; Canadian Journal of Economics; Econometrica; Economic Inquiry; Economics Letters; European Economic Review; International Economic Review; Journal of Applied Mathematics; Journal of Economic Theory; Journal of Economic Dynamics \& Control; Journal of Economics and Business; Journal of Macroeconomics; Journal of Monetary Economics; Journal of Money, Credit, and Banking; Journal of Political Economy; National Science Foundation; Review of Economic Dynamics}
+\end{itemize}
+
+\section*{Research presentations}
+\begin{itemize}
+\item ``An exploration into the effects of dynamic economic stabilization,'' presented at the conference \textit{Should We Re-Build Built-In Stabilizers?}, sponsored by CEPREMAP, the French Ministry of Finance and MAD, Universit{\'e} Paris I (Paris, January 1996).
+
+\item ``Risk preferences and the welfare cost of business cycles,'' presented at the 1997 ASSA/North American Winter Meetings of the Econometric Society (New Orleans, January 1997); and at the 1996 Western Economic Association meetings (San Francisco, July 1996).
+
+\item ``On the political economy of immigration,'' presented at the conference \textit{Dynamic Models of Economic Policy}, sponsored by the Bradley Policy Research Center of the University of Rochester, the Program for Dynamic Economics at UCLA, the Research Department of the Federal Reserve Bank of Minneapolis and the Review of Economic Dynamics (Rochester, October 1997); and at the 1997 Society for Economic Dynamics annual meeting (Oxford, July 1997).
+
+\item ``Inflation, inequality and central bank independence,'' presented at the 1999 Society for Economic Dynamics annual meeting (Sardegna, Italy, June/July 1999).
+
+\item ``Real business cycle dynamics under first-order risk aversion,'' presented at the 2007 Econometric Society North American Summer Meetings (Duke University, June 2007); Federal Reserve System committee meeting on macroeconomics (FRB Cleveland, Pittsburgh branch, November 2006); and at the University of Virginia Economics Department (November 2006).
+
+\item ``What do majority-voting politics say about redistributive taxation of consumption and factor income? Not much,'' presented at the 2009 Midwest Macro Meetings (University of Indiana, May 2009).
+
+\item ``Risk preferences, intertemporal substitution, and business cycle dynamics,'' presented at the Sveriges Riksbank (May 2011).
+
+\item ``Some challenges in accounting for the size of government,'' Keynote lecture at 6th Annual Guanajuato Workshop for Young Economists, Universidad de Guanajuato (August 2011). \href{https://jimdolmas.github.io/assets/guanajuato.pdf}{\scriptsize\textsc{[beamer slides]}}
+
+\item ``Disastrous disappointments: Asset-pricing with disaster risk and disappointment aversion,'' presented at Computing in Economics and Finance Conference (Vancouver, July 2013); Econometric Society European Meeting (G\"{o}teborg, August 2013); Midwest Finance Association Annual Meeting (Orlando, March 2014); Midwest Macro Meeting (University of Missouri, May--June 2014).
+\href{https://jimdolmas.github.io/assets/disastrous_ESEM.pdf}{\scriptsize\textsc{[beamer slides]}}
+
+\item ``Adaptive trimming of PCE inflation,'' presented at the Federal Reserve Bank of Cleveland Day-Ahead Inflation Workshop (May 2018).
+\end{itemize}
+
+\section*{Conferences co-organized}
+\begin{itemize}
+\item 16th Annual Texas Monetary Conference (jointly with Roland Meeks, FRB Dallas, May 2008); Price Measurement for Monetary Policy, a conference organized by the Dallas and Cleveland Feds (jointly with David Altig, Michael Bryan and Mark Wynne, FRB Dallas, May 2007); Myths and Realities of Globalization (jointly with Mark Wynne, FRB Dallas, November 2004).
+\end{itemize}
+
+\section*{Teaching experience}
+\begin{itemize}
+\item At the Ph.D. level: Macroeconomics, asset-pricing, and mathematical methods for economics.
+\item At the Master's/MBA level: Managerial economics, organizations theory.
+\item At the undergraduate level: Principles of macroeconomics, principles of microeconomics, economic growth, intermediate macroeconomics and price theory.
+\end{itemize}
+\bigskip
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{\footerlink}{\footerlink}
+  \end{footnotesize}
+\end{center}
+
+\end{document}
