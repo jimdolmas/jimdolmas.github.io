@@ -13,11 +13,11 @@ This is my attempt to approximate (in a vegetarian version) a tomato risotto fro
 *   1 14-ounce can best quality Italian tomatoes (e.g., Carmelina brand), milled with all their juices
 *   2 cups carnaroli (or arborio or vialone nano) rice
 *   6 cups broth (good homemade or 3 cups store-bought diluted with 3 cups water)
-*   &frac34; cup freshly grated parmgiano reggiano
+*   &frac34; cup freshly grated parmigiano reggiano
 *   2 tablespoons unsalted butter
 *   Salt
 *   Freshly ground black pepper
-*   5 or 6 basil leaves, finely slivered
+*   5 or 6 basil leaves, torn into small pieces
 *   More grated parmigiano for serving
 
 Bring broth to slow simmer on a burner adjacent to where you’re cooking the risotto.
